@@ -154,3 +154,10 @@ FROM
 ON a.Id = s.Id 
 GROUP BY 
   a.Id
+  
+  
+  
+  
+  
+  
+  
