@@ -20,5 +20,5 @@ Bellabeat is a health tech company that specializes in creating wearable technol
 * The high level of activity among users, with 93.5% of them being consistent in utilizing their FitBits, suggests that Bellabeat should focus its marketing efforts on customers who are already invested in wellness and using fitness trackers. Highlighting the unique features of Bellabeat's products, especially those designed for women, may entice these customers to switch to Bellabeat's products for more targeted insights.
 * Since users tend to be most active during lunchtime and in the late afternoon to early evening, Bellabeat should target customers who have set schedules, such as those with regular jobs or parents with a predictable daily routine. By focusing on these customer groups, Bellabeat can tailor its products and marketing messages to fit their needs and increase the likelihood of adoption and continued use of its products.
 
-### Full Report - https://github.com/Amrish6/BellabeatProject/blob/main/Bellabeat%20Case%20Study%20Report.pdf
+### Full Report - https://1drv.ms/b/s!AjkaD3ZAZU8QgV6br2QIczNClmz7?e=j2LChI
 ### Tableau VIZ - https://public.tableau.com/app/profile/saran.somasekaran/viz/BellabeatCaseStudyProject_16805572699880/Dashboard1
